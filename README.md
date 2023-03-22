@@ -1,4 +1,6 @@
 # rsnrpz
-Realization of rsnrpz DLL's library functionality via .NET wrapper class. 
+Realization of rsnrpz DLL's library functionality via .NET wrapper class (```VB.NET```). 
 
-rsnrpz_32.dll and rsnrpz_64.dll are the dynamic loaded libraries that support control and data interchange with measurement tool NRP of Rohde&Schwartz.
+## Description 
+
+`rsnrpz_32.dll` and `rsnrpz_64.dll` are the dynamic loaded libraries that support control and data interchange with measurement tool **NRP** of *Rohde&Schwartz*.
